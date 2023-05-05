@@ -1,0 +1,27 @@
+﻿<Window x:Class="WpfApp1.tabletki2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="tabletki2" Height="900" Width="1600" WindowStyle="ToolWindow" WindowStartupLocation="CenterScreen">
+    <Grid Background="#FF0B1F52">
+        <Image Margin="56,45,0,0" Source="/LABLE.png" Stretch="Fill" Height="116" VerticalAlignment="Top" HorizontalAlignment="Left" Width="124"/>
+
+        <Button Content="" HorizontalAlignment="Left" Height="116" Margin="56,45,0,0" VerticalAlignment="Top" Width="124" RenderTransformOrigin="0.5,0.5" Background="Transparent" Opacity="0"  BorderBrush="Transparent" Foreground="Transparent" Click="Button_Click">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleX="1"/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+        <Image Margin="212,195,1026,195" Source="/Image5.png" Stretch="Fill"/>
+        <TextBlock HorizontalAlignment="Left" Height="32" Margin="262,714,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="262" Foreground="#FF58FFE6" FontSize="20"><Run Text="Рекомендуют 7/10 "/><Run Text="врачей"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Height="690" Margin="904,0,0,0" TextWrapping="Wrap" VerticalAlignment="Center" Width="556" FontSize="30" Foreground="White" FontFamily="Yu Gothic UI" Text="Периндоприла эрбумин — пролекарство, превращается в периндоприлат, который ингибирует АПФ у человека и животных. Механизм, посредством которого периндоприлат снижает АД, как полагают, заключается в основном в ингибировании активности АПФ. АПФ — пептидилдипептидаза, которая катализирует превращение неактивного декапептида, ангиотензина I, в вазоконстриктор, ангиотензин II. Ангиотензин II является сильным периферическим вазоконстриктором, который стимулирует секрецию альдостерона корой надпочечников и обеспечивает отрицательную обратную связь в отношении секреции ренина."/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,156 @@
+C:\Users\misha\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.exe
+C:\Users\misha\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.deps.json
+C:\Users\misha\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.runtimeconfig.json
+C:\Users\misha\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.dll
+C:\Users\misha\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.pdb
+C:\Users\misha\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\misha\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\misha\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\reg.g.cs
+C:\Users\misha\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\vxod.g.cs
+C:\Users\misha\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\misha\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.cache
+C:\Users\misha\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.lref
+C:\Users\misha\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\misha\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\reg.baml
+C:\Users\misha\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\vxod.baml
+C:\Users\misha\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.g.resources
+C:\Users\misha\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misha\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\misha\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfo.cs
+C:\Users\misha\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\misha\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.dll
+C:\Users\misha\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\refint\WpfApp1.dll
+C:\Users\misha\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.pdb
+C:\Users\misha\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.genruntimeconfig.cache
+C:\Users\misha\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\ref\WpfApp1.dll
+C:\Users\misha\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\admin.g.cs
+C:\Users\misha\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\admin.baml
+C:\Users\misha\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\misha\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\misha\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\misha\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\misha\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\misha\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\misha\source\repos\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CopyComplete
+C:\Users\misha\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\misha\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\misha\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\misha\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\misha\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\misha\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\misha\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\misha\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\misha\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\misha\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\misha\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\misha\source\repos\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\nika2\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.exe
+C:\Users\nika2\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.dll.config
+C:\Users\nika2\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.deps.json
+C:\Users\nika2\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.runtimeconfig.json
+C:\Users\nika2\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.dll
+C:\Users\nika2\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.pdb
+C:\Users\nika2\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\nika2\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\nika2\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\nika2\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nika2\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\nika2\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\nika2\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\nika2\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\nika2\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\nika2\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\nika2\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\nika2\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\nika2\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\nika2\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\nika2\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\nika2\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\nika2\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nika2\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nika2\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\nika2\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\admin.g.cs
+C:\Users\nika2\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\nika2\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\reg.g.cs
+C:\Users\nika2\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\vxod.g.cs
+C:\Users\nika2\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\nika2\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.cache
+C:\Users\nika2\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.lref
+C:\Users\nika2\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\admin.baml
+C:\Users\nika2\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\nika2\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\reg.baml
+C:\Users\nika2\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\vxod.baml
+C:\Users\nika2\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.g.resources
+C:\Users\nika2\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nika2\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\nika2\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfo.cs
+C:\Users\nika2\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\nika2\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CopyComplete
+C:\Users\nika2\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.dll
+C:\Users\nika2\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\refint\WpfApp1.dll
+C:\Users\nika2\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.pdb
+C:\Users\nika2\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.genruntimeconfig.cache
+C:\Users\nika2\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\ref\WpfApp1.dll
+C:\Users\misha\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.exe
+C:\Users\misha\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.dll.config
+C:\Users\misha\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.deps.json
+C:\Users\misha\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.runtimeconfig.json
+C:\Users\misha\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.dll
+C:\Users\misha\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.pdb
+C:\Users\misha\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\misha\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\misha\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\misha\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\misha\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\misha\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\misha\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\misha\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\misha\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\misha\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\misha\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\misha\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\misha\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\misha\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\misha\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\misha\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\misha\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\misha\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\misha\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\misha\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\admin.g.cs
+C:\Users\misha\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\misha\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\reg.g.cs
+C:\Users\misha\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\vxod.g.cs
+C:\Users\misha\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\misha\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.cache
+C:\Users\misha\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.lref
+C:\Users\misha\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\admin.baml
+C:\Users\misha\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\misha\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\reg.baml
+C:\Users\misha\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\vxod.baml
+C:\Users\misha\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.g.resources
+C:\Users\misha\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misha\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\misha\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfo.cs
+C:\Users\misha\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\misha\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CopyComplete
+C:\Users\misha\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.dll
+C:\Users\misha\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\refint\WpfApp1.dll
+C:\Users\misha\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.pdb
+C:\Users\misha\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.genruntimeconfig.cache
+C:\Users\misha\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\ref\WpfApp1.dll
+C:\Users\misha\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\dobavuser.g.cs
+C:\Users\misha\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\dobavuser.baml
+C:\Users\misha\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\tovari.g.cs
+C:\Users\misha\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\tovari.baml
+C:\Users\misha\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\tabletki1.g.cs
+C:\Users\misha\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\tabletki2.g.cs
+C:\Users\misha\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\tabletki3.g.cs
+C:\Users\misha\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\tabletki4.g.cs
+C:\Users\misha\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\tabletki5.g.cs
+C:\Users\misha\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\tabletki6.g.cs
+C:\Users\misha\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\tabletki1.baml
+C:\Users\misha\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\tabletki2.baml
+C:\Users\misha\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\tabletki3.baml
+C:\Users\misha\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\tabletki4.baml
+C:\Users\misha\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\tabletki5.baml
+C:\Users\misha\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\net6.0-windows\tabletki6.baml

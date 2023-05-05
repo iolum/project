@@ -1,0 +1,83 @@
+﻿<Window x:Class="WpfApp1.reg"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="reg" Height="900" Width="1600" WindowStartupLocation="CenterScreen" WindowStyle="ToolWindow">
+    <Grid Background="#0b1f52">
+        <TextBox x:Name="textBoxLogin" Background="#FFCDCCF1" HorizontalAlignment="Left" Height="62" Margin="528,360,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="530" FontFamily="Arial" FontSize="50" TextChanged="textBoxLogin_TextChanged"/>
+        <PasswordBox x:Name="passBox" Background="#FFCDCCF1" HorizontalAlignment="Left" Height="62" Margin="528,521,0,0" VerticalAlignment="Top" Width="530" FontFamily="Arial" FontSize="50"/>
+
+        <TextBlock HorizontalAlignment="Left" Margin="528,324,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="31" Width="460" FontFamily="Arial" FontSize="26" RenderTransformOrigin="0.5,0.5" Foreground="#FFD6D6D6">
+            <TextBlock.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleX="0"/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBlock.RenderTransform><Run Text="Укажите "/><Run Text="Логин"/><Run Text=" "/><Run Text="(не менее 3 символов)"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="528,485,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="31" Width="530" FontFamily="Arial" FontSize="26" RenderTransformOrigin="0.5,0.5" Foreground="#FFD6D6D6">
+            <TextBlock.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleX="0"/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBlock.RenderTransform><Run Text="Придумайте Пароль"/><Run Text=" "/><Run Text="(не менее 5 символов)"/></TextBlock>
+
+        <TextBlock HorizontalAlignment="Left" Margin="539,75,-254,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="84" Width="507" FontFamily="Arial Black" FontSize="70" RenderTransformOrigin="0.5,0.5" Foreground="#FF58FFE6">
+            <TextBlock.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleX="-10"/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBlock.RenderTransform><Run Language="ru-ru" Text="Регистрация"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="528,191,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="84" Width="430" FontFamily="Arial Black" FontSize="40" RenderTransformOrigin="0.5,0.5" Foreground="White" Text="Уже есть аккаунт? ">
+            <TextBlock.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleX="0"/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBlock.RenderTransform></TextBlock>
+
+        <Button Content="Зарегистрироваться" HorizontalAlignment="Left" Height="93" Margin="580,729,0,0" VerticalAlignment="Top" Width="427" FontFamily="Arial Black" FontSize="35" Background="#FF58FFE6" BorderBrush="#FF0B1F52" Foreground="#FF0B1F52" RenderTransformOrigin="0.5,0.5" Click="Button_Click" >
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleX="-10"/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+        <TextBlock HorizontalAlignment="Left" Margin="946,192,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="60" Width="151" FontFamily="Arial Black" FontSize="40" RenderTransformOrigin="0.5,0.5" Foreground="#FF6666FF" TextDecorations="Underline" Text="____________">
+            <TextBlock.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleX="0"/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBlock.RenderTransform></TextBlock>
+        <Button Content="Вход" HorizontalAlignment="Left" Height="48" Margin="946,182,0,0" VerticalAlignment="Top" Width="139" FontFamily="Arial Black" FontSize="40" Foreground="#FF6666FF" Background="#FF0B1F52" BorderBrush="#FF0B1F52" Click="Button_Click_1" />
+        <Image Margin="56,45,1420,723" Source="LABLE.png" Stretch="Fill"/>
+        <Button Content="" HorizontalAlignment="Left" Height="116" Margin="56,45,0,0" VerticalAlignment="Top" Width="124" RenderTransformOrigin="0.5,0.5" Background="Transparent" Opacity="0"  BorderBrush="Transparent" Foreground="Transparent" Click="Button_Click_2" >
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleX="1"/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+    </Grid>
+</Window>
